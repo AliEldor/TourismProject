@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Temple Of Bacchus, Lebanon",
+    "city": "Baalbek",
+    "address": "Somewhere in Lebanon",
+    "distance": 300,
+    "price": 40,
+    "maxGroupSize": 10,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/temple-of-bacchus.jpg",
+    "featured": true
+  },
+  {
+    "title": "Cedars Of Barouk, Lebanon",
+    "city": "Cedars",
+    "address": "Somewhere in Lebanon",
+    "distance": 400,
+    "price": 30,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/cedars2.jpg",
+    "featured": true
+  },
+  {
+    "title": "Sea Castle, Lebanon",
+    "city": "Lebanon",
+    "address": "Somewhere in Lebanon",
+    "distance": 500,
+    "price": 20,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/sidon-castle.jpg",
+    "featured": true
+  },
+  {
+    "title": "Raouche, Lebanon",
+    "city": "Beirut",
+    "address": "Somewhere in Lebanon",
+    "distance": 500,
+    "price": 0,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/sakhret-rawshe.jpg",
+    "featured": true
+  },
+  {
+    "title": "Beiteddine Palace, Lebanon",
+    "city": "Mount Labanon",
+    "address": "Somewhere in Lebanon",
+    "distance": 500,
+    "price": 25,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/beiteldin-palace.jpg",
+    "featured": true
+  },
+  {
+    "title": "Jeita Grotto, Lebanon",
+    "city": "Jeita",
+    "address": "Somewhere in Lebanon",
+    "distance": 500,
+    "price": 30,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/jeita-grotto.jpg",
+    "featured": true
+  },
+  {
+    "title": " Ancient Horsh Ehden ",
+    "city": "Lebanon",
+    "address": "Somewhere in France",
+    "distance": 500,
+    "price": 20,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/horsh-ehden.jpg",
+    "featured": true
+  },
+  {
+    "title": "Faraya Mountains, Lebanon",
+    "city": "Beirut",
+    "address": "Somewhere in Thailand",
+    "distance": 500,
+    "price": 25,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/Faraya.jpg",
+    "featured": true
+  },
+  {
+    "title": "Baatara Gorge Waterfall, Lebanon",
+    "city": "Mount Lebanon",
+    "address": "Somewhere in Lebanon",
+    "distance": 100,
+    "price": 99,
+    "maxGroupSize": 5,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/waterfall.jpg",
+    "featured": false
+  },
+  {
+    "title": "Harissa, Lebanon",
+    "city": "Harissa",
+    "address": "Somewhere in Lebanon",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/harrisa.jpg",
+    "featured": false
+  }
+]
